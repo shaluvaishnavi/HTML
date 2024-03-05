@@ -1,0 +1,26 @@
+body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: #dfbbbb;
+            background-image: url('C:\Users\ELCOT\Downloads\bg 1.jpg');
+            margin: 10px;
+            border: double purple 10px;
+            padding: 10px;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+    
+        .bio-data {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: #68a1c7;
+            background-image: url('C:\Users\ELCOT\Downloads\bg 1.jpg');
+            padding: 20px;
+            border:  10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        ul li{
+            line-height: 25px;
+        }
